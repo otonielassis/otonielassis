@@ -11,4 +11,5 @@ About Me? / Sobre mim? Este cara:
 - 🔭 I’m currently working on Hospital
 - 🌱 I’m currently learning Docker/Kubernetes/Cloud and some Language codes
 - 🤔 I’m looking for help with improve my scripts
+- 😋 Eu Falo/I Speak: Português 🇧🇷/English 🇨🇦/🇺🇸 [just a little]
 - ⚡ Aleatoriedade : Debugando a mente!
