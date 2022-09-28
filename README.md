@@ -1,7 +1,7 @@
 ### Hi there 👋 Ola terráqueos
 
 <!--
-**otonielassis/otonielassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**otonielassis/otonielassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 About Me? / Sobre mim? Este cara: 
 
@@ -67,4 +67,3 @@ GGB#BPPGBBBBGGPGGBBBBBBGGGGGGGBBBGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGPPPP55555PGPYYYYY
 - 🌱 I’m currently learning Docker/Kubernetes/Cloud and some Language codes
 - 🤔 I’m looking for help with improve my scripts
 - ⚡ Aleatoriedade : Debugando a mente!
--->
